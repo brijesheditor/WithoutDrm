@@ -90,6 +90,13 @@ keyboard = InlineKeyboardMarkup(
 
 # Image URLs for the random image feature
 image_urls = [
+    "https://i.ibb.co/dpRKmmj/file-3957.jpg",
+    "https://i.ibb.co/NSbPQ5n/file-3956.jpg",
+    "https://i.ibb.co/Z8R4z0g/file-3962.jpg",
+    "https://i.ibb.co/LtqjVy7/file-3958.jpg",
+    "https://i.ibb.co/bm20zfd/file-3959.jpg",
+    "https://i.ibb.co/0V0BngV/file-3960.jpg",
+    "https://i.ibb.co/rQMXQjX/file-3961.jpg",
     "https://tinypic.host/images/2025/02/07/IMG_20250207_224444_975.jpg",
     "https://tinypic.host/images/2025/02/07/DeWatermark.ai_1738952933236-1.png",
     # Add more image URLs as needed
